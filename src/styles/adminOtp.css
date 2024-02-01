@@ -1,0 +1,9 @@
+.otpInput{
+    width: 100px;
+    height: 60px;
+    border-radius: 10px;
+    border: 1px solid rgba(38, 118, 194, 0.20);
+    background: rgba(38, 118, 194, 0.10);
+    margin-right: 4px;
+    outline: none;
+}
